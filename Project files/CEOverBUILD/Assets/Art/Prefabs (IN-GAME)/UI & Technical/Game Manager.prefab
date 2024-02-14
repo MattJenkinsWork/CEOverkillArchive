@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1840311033457498}
+  m_IsPrefabAsset: 1
+--- !u!1 &1840311033457498
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4901122105992104}
+  - component: {fileID: 114951707067741842}
+  - component: {fileID: 114975054804320702}
+  - component: {fileID: 114670000115876978}
+  - component: {fileID: 114261258320892106}
+  - component: {fileID: 114685653794259492}
+  - component: {fileID: 114612223339557740}
+  - component: {fileID: 114511298869403782}
+  - component: {fileID: 114299536244314292}
+  - component: {fileID: 114123725564527230}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4901122105992104
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 47.749023, y: -10, z: 16.741287}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114123725564527230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8707cc59a64fb43a46887f2875080d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  playerController: {fileID: 0}
+  pauseCanvas: {fileID: 0}
+  optionsCanvas: {fileID: 0}
+  isPaused: 0
+--- !u!114 &114261258320892106
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b7b72a3458f904d86ccc74c2d2ecb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageSpeed: 1
+  arrowPrefab: {fileID: 1080056402805922, guid: e4f3e6d240955104aab29d5443def1e5,
+    type: 2}
+  arrowLife: 5
+--- !u!114 &114299536244314292
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c7b046494179f24cba925c1fd4e7d5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114511298869403782
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ea76d6d3f2cc340ae887705e54af64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startEndGame: 0
+  touchGas: 0
+  toxicGas: {fileID: 0}
+  gasTransform: {fileID: 0}
+  panel: {fileID: 0}
+  smoothTime: 4
+--- !u!114 &114612223339557740
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a6c855bc8b71484ebc9936ed5ba0940, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  floorSpawns: []
+  floorDesignated: []
+--- !u!114 &114670000115876978
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dbea40b175e8df469550ff0e0eb8368, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastEnemySpawned: 0
+  lastEnemy: {fileID: 0}
+  spawnMostWait: 0.5
+  spawnLeastWait: 0.5
+  enemieRadius: 0
+  enemiesSpawned: 0
+  maxEnemies: 10
+  startWait: 1
+  stop: 0
+  allEnemiesKilled: 1
+  profiles: []
+  globalSpawns: []
+  numberOfActiveEnemies: 
+--- !u!114 &114685653794259492
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2d23ccf792f57448efc42dad7d585c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  airNavMeshes:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 2a5bd53bbc45bfe4982405eb807be3a0, type: 2}
+  - {fileID: 11400000, guid: b55813c5bde19784391c640e7ef71c37, type: 2}
+  - {fileID: 11400000, guid: c3c00a744e6c7d740ae521d39c2f59f5, type: 2}
+  - {fileID: 11400000, guid: ff0d55a653e358440bb813c5d29ded33, type: 2}
+  - {fileID: 11400000, guid: 73a0f25d80bf35a4ba9ac96e2438bb21, type: 2}
+  - {fileID: 11400000, guid: 04e95e8a086dde2429afc9ac649786fb, type: 2}
+  - {fileID: 11400000, guid: f35d43f68bb158e43babca226f1760a7, type: 2}
+  currentAirNavMesh: {fileID: 0}
+--- !u!114 &114951707067741842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cede3bd180455c41b636dafa872a321, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  isPlayerAttacking: 0
+  gravityModifierOveride: 0.6
+  maxSpeed: 1.4
+  minSpeed: 0.5
+  propsToDestroy:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  floorsCleared: 0
+  enemyList: []
+  allEnemiesDead: 0
+  maxFloorAmount: 8
+  spawnEnemies: 1
+  canEnd: 1
+  towerStore: 1
+  currentFloorObject: {fileID: 0}
+  spawnHeight: 0
+  enemyTypes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  designateds: []
+  numToSpawn: 0
+  airTime: 0.5
+  airTimeReset: 0
+  maxTimeToFall: 5
+  minTimeToFall: 2
+  destroyTime: 10
+  initialVelocity: 100
+  shaderUpdateRate: 0.015
+  shaderDecreaseAmount: 0.01
+--- !u!114 &114975054804320702
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1840311033457498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01679fe4d01deed43984d87f8df83150, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tower1Data:
+  - {fileID: 11400000, guid: e0aa5d978c06a9740b849e77f9dcd884, type: 2}
+  - {fileID: 11400000, guid: 22b4af7a5c1268b4a907844a2ee23226, type: 2}
+  - {fileID: 11400000, guid: 73ebcebdcde9ad84bad5ff999330968c, type: 2}
+  - {fileID: 11400000, guid: 3ba571cdda93ec24b86d5e7d713ce678, type: 2}
+  - {fileID: 11400000, guid: 1936d4d5f2f73a643adb7911d3661846, type: 2}
+  - {fileID: 11400000, guid: 241f00188d2c2764ca82ef1c9f0ed066, type: 2}
+  - {fileID: 11400000, guid: 68e7ae9551737ce4c8e856a5150f2474, type: 2}
+  - {fileID: 11400000, guid: 8b20d3442a0a00742b72608b9ca6ea98, type: 2}
+  currentFloors:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

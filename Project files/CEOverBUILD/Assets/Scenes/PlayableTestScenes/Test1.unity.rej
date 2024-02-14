@@ -1,0 +1,134 @@
+diff a/Assets/Scenes/PlayableTestScenes/Test1.unity b/Assets/Scenes/PlayableTestScenes/Test1.unity	(rejected hunks)
+@@ -38,7 +38,7 @@
+   m_ReflectionIntensity: 1
+   m_CustomReflection: {fileID: 0}
+   m_Sun: {fileID: 0}
+-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
++  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+   m_UseRadianceAmbientProbe: 0
+ --- !u!157 &3
+ LightmapSettings:
+@@ -113,6 +113,33 @@
+     debug:
+       m_Flags: 0
+   m_NavMeshData: {fileID: 0}
++--- !u!1 &206956575 stripped
++GameObject:
++  m_CorrespondingSourceObject: {fileID: 1568079864812296, guid: a1d3d91a3f7f14347b34e0280eb11c79,
++    type: 2}
++  m_PrefabInternal: {fileID: 1888396636}
++--- !u!114 &206956586
++MonoBehaviour:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInternal: {fileID: 0}
++  m_GameObject: {fileID: 206956575}
++  m_Enabled: 1
++  m_EditorHideFlags: 0
++  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
++  m_Name: 
++  m_EditorClassIdentifier: 
++  Event: event:/Player Character/playercharacter_running1
++  PlayEvent: 0
++  StopEvent: 0
++  CollisionTag: 
++  AllowFadeout: 1
++  TriggerOnce: 0
++  Preload: 0
++  Params: []
++  OverrideAttenuation: 0
++  OverrideMinDistance: 1
++  OverrideMaxDistance: 20
+ --- !u!1 &677461961
+ GameObject:
+   m_ObjectHideFlags: 0
+@@ -530,16 +557,6 @@
+       propertyPath: m_RootOrder
+       value: 1
+       objectReference: {fileID: 0}
+-    - target: {fileID: 114056093246238036, guid: 9f952ab763caab043b53c61e7c954fb6,
+-        type: 2}
+-      propertyPath: targetOffset.y
+-      value: 0.125
+-      objectReference: {fileID: 0}
+-    - target: {fileID: 114056093246238036, guid: 9f952ab763caab043b53c61e7c954fb6,
+-        type: 2}
+-      propertyPath: fireRate
+-      value: 0.5
+-      objectReference: {fileID: 0}
+     m_RemovedComponents: []
+   m_SourcePrefab: {fileID: 100100000, guid: 9f952ab763caab043b53c61e7c954fb6, type: 2}
+   m_IsPrefabAsset: 0
+@@ -648,11 +665,6 @@
+       propertyPath: m_RootOrder
+       value: 2
+       objectReference: {fileID: 0}
+-    - target: {fileID: 114805377648389348, guid: 8537950bc4b2203468797dd966972ba7,
+-        type: 2}
+-      propertyPath: timeBetweenHits
+-      value: 0.5
+-      objectReference: {fileID: 0}
+     m_RemovedComponents: []
+   m_SourcePrefab: {fileID: 100100000, guid: 8537950bc4b2203468797dd966972ba7, type: 2}
+   m_IsPrefabAsset: 0
+@@ -695,31 +707,34 @@
+       propertyPath: m_RootOrder
+       value: 3
+       objectReference: {fileID: 0}
+-    - target: {fileID: 136887364363577990, guid: a1d3d91a3f7f14347b34e0280eb11c79,
+-        type: 2}
+-      propertyPath: m_Radius
+-      value: 0.8202104
+-      objectReference: {fileID: 0}
+-    - target: {fileID: 136887364363577990, guid: a1d3d91a3f7f14347b34e0280eb11c79,
+-        type: 2}
+-      propertyPath: m_Center.x
+-      value: 0.0011202474
+-      objectReference: {fileID: 0}
+-    - target: {fileID: 136887364363577990, guid: a1d3d91a3f7f14347b34e0280eb11c79,
+-        type: 2}
+-      propertyPath: m_Center.y
+-      value: 0.15354444
+-      objectReference: {fileID: 0}
+-    - target: {fileID: 136887364363577990, guid: a1d3d91a3f7f14347b34e0280eb11c79,
+-        type: 2}
+-      propertyPath: m_Center.z
+-      value: -1.707183e-11
+-      objectReference: {fileID: 0}
+-    - target: {fileID: 136887364363577990, guid: a1d3d91a3f7f14347b34e0280eb11c79,
+-        type: 2}
+-      propertyPath: m_Height
+-      value: 2.5076194
+-      objectReference: {fileID: 0}
+-    m_RemovedComponents: []
++    m_RemovedComponents:
++    - {fileID: 114755613328225682, guid: a1d3d91a3f7f14347b34e0280eb11c79, type: 2}
+   m_SourcePrefab: {fileID: 100100000, guid: a1d3d91a3f7f14347b34e0280eb11c79, type: 2}
+   m_IsPrefabAsset: 0
++--- !u!1 &1960352920 stripped
++GameObject:
++  m_CorrespondingSourceObject: {fileID: 1840311033457498, guid: f8145ac320f669b4da3faea31de4c351,
++    type: 2}
++  m_PrefabInternal: {fileID: 962288657}
++--- !u!114 &1960352927
++MonoBehaviour:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInternal: {fileID: 0}
++  m_GameObject: {fileID: 1960352920}
++  m_Enabled: 1
++  m_EditorHideFlags: 0
++  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
++  m_Name: 
++  m_EditorClassIdentifier: 
++  Event: event:/Level/floor_destroy1
++  PlayEvent: 3
++  StopEvent: 0
++  CollisionTag: 
++  AllowFadeout: 1
++  TriggerOnce: 0
++  Preload: 0
++  Params: []
++  OverrideAttenuation: 0
++  OverrideMinDistance: 1
++  OverrideMaxDistance: 20

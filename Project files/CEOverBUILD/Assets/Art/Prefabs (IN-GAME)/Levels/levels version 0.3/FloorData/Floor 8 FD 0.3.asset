@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: Floor 8 FD 0.3
+  m_EditorClassIdentifier: 
+  enemyKinds:
+  - {fileID: 1902803829356294, guid: d70d5f227857e9d42a308af7fa7bd9a9, type: 2}
+  - {fileID: 1379071756982596, guid: 6b39fefbf5d684a43b2279519c1d9198, type: 2}
+  - {fileID: 1358274778821970, guid: 47c0b5122b33ea84c9d47eaedca227e1, type: 2}
+  - {fileID: 1251164496859540, guid: 6aea3abe5b10dd6428deb9a8df3439af, type: 2}
+  amountOfEnemyToSpawn: 5000000014000000040000000f000000
+  maxAmountOfEnemyInField: 0a000000020000000400000005000000

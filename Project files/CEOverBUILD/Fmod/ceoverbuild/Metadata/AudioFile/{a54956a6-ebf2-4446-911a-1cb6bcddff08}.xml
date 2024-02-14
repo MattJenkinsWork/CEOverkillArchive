@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a54956a6-ebf2-4446-911a-1cb6bcddff08}">
+        <property name="assetPath">
+            <value>Synth - Amped [Bbm].wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>197.65704166666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f52ab4dd-4f1e-4153-b161-e92164406832}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{3e9cb403-8fae-4b1e-ad19-893c293d784a}">
+        <property name="assetPath">
+            <value>Synth - Calling Out Glitter.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>156.16006250000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f52ab4dd-4f1e-4153-b161-e92164406832}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{bfad9cfa-c815-432b-a8c4-2684bc2f15bb}">
+        <property name="assetPath">
+            <value>RATrailer2.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>78.71274376417233</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f52ab4dd-4f1e-4153-b161-e92164406832}</destination>
+        </relationship>
+    </object>
+</objects>

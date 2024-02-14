@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: ec6c16825dabc8e47b28b954faecb353
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hands_Hub01
+    100004: Hands_LArm1
+    100006: Hands_LArm2
+    100008: Hands_LArmCollarbone
+    100010: Hands_LArmFinger11
+    100012: Hands_LArmFinger12
+    100014: Hands_LArmFinger13
+    100016: Hands_LArmFinger21
+    100018: Hands_LArmFinger22
+    100020: Hands_LArmFinger23
+    100022: Hands_LArmFinger31
+    100024: Hands_LArmFinger32
+    100026: Hands_LArmFinger33
+    100028: Hands_LArmFinger34
+    100030: Hands_LArmFinger41
+    100032: Hands_LArmFinger42
+    100034: Hands_LArmFinger43
+    100036: Hands_LArmFinger44
+    100038: Hands_LArmPalm
+    100040: Hands_LArmThumb1
+    100042: Hands_LArmThumb2
+    100044: Hands_LArmThumb3
+    100046: Hands_LPalm_morph
+    100048: Hands_LSleeve
+    100050: Hands_Lwrist
+    100052: hands_mesHNEW
+    100054: Hands_R_Sleeve
+    100056: Hands_R_wrist
+    100058: Hands_RArm1
+    100060: Hands_RArm2
+    100062: Hands_RArmCollarbone
+    100064: Hands_RArmFinger11
+    100066: Hands_RArmFinger12
+    100068: Hands_RArmFinger13
+    100070: Hands_RArmFinger21
+    100072: Hands_RArmFinger22
+    100074: Hands_RArmFinger23
+    100076: Hands_RArmFinger31
+    100078: Hands_RArmFinger32
+    100080: Hands_RArmFinger33
+    100082: Hands_RArmFinger34
+    100084: Hands_RArmFinger41
+    100086: Hands_RArmFinger42
+    100088: Hands_RArmFinger43
+    100090: Hands_RArmFinger44
+    100092: Hands_RArmPalm
+    100094: Hands_RArmThumb1
+    100096: Hands_RArmThumb2
+    100098: Hands_RArmThumb3
+    100100: Hands_RPalm_morph
+    100102: ROOTBONE
+    400000: //RootNode
+    400002: Hands_Hub01
+    400004: Hands_LArm1
+    400006: Hands_LArm2
+    400008: Hands_LArmCollarbone
+    400010: Hands_LArmFinger11
+    400012: Hands_LArmFinger12
+    400014: Hands_LArmFinger13
+    400016: Hands_LArmFinger21
+    400018: Hands_LArmFinger22
+    400020: Hands_LArmFinger23
+    400022: Hands_LArmFinger31
+    400024: Hands_LArmFinger32
+    400026: Hands_LArmFinger33
+    400028: Hands_LArmFinger34
+    400030: Hands_LArmFinger41
+    400032: Hands_LArmFinger42
+    400034: Hands_LArmFinger43
+    400036: Hands_LArmFinger44
+    400038: Hands_LArmPalm
+    400040: Hands_LArmThumb1
+    400042: Hands_LArmThumb2
+    400044: Hands_LArmThumb3
+    400046: Hands_LPalm_morph
+    400048: Hands_LSleeve
+    400050: Hands_Lwrist
+    400052: hands_mesHNEW
+    400054: Hands_R_Sleeve
+    400056: Hands_R_wrist
+    400058: Hands_RArm1
+    400060: Hands_RArm2
+    400062: Hands_RArmCollarbone
+    400064: Hands_RArmFinger11
+    400066: Hands_RArmFinger12
+    400068: Hands_RArmFinger13
+    400070: Hands_RArmFinger21
+    400072: Hands_RArmFinger22
+    400074: Hands_RArmFinger23
+    400076: Hands_RArmFinger31
+    400078: Hands_RArmFinger32
+    400080: Hands_RArmFinger33
+    400082: Hands_RArmFinger34
+    400084: Hands_RArmFinger41
+    400086: Hands_RArmFinger42
+    400088: Hands_RArmFinger43
+    400090: Hands_RArmFinger44
+    400092: Hands_RArmPalm
+    400094: Hands_RArmThumb1
+    400096: Hands_RArmThumb2
+    400098: Hands_RArmThumb3
+    400100: Hands_RPalm_morph
+    400102: ROOTBONE
+    2100000: 'Material #95'
+    2100002: 04 - Default
+    4300000: hands_mesHNEW
+    7400000: Jump
+    9500000: //RootNode
+    13700000: hands_mesHNEW
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: ROOTBONE
+    rootMotionBoneRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 27e380a219d350c45b073b4384737326,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

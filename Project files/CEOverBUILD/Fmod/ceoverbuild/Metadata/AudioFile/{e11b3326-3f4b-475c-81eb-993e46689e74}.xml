@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{e11b3326-3f4b-475c-81eb-993e46689e74}">
+        <property name="assetPath">
+            <value>Wood_Breaking5.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.9201587301587302</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f52ab4dd-4f1e-4153-b161-e92164406832}</destination>
+        </relationship>
+    </object>
+</objects>

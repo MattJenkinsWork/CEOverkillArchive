@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Menu Scenes/MainMenu.unity
+    guid: aafc505256ee6de468720946ac120eca
+  - enabled: 0
+    path: Assets/Scenes/Outdated Scenes/Tower1.unity
+    guid: 5fa0884d8f22feb41872a8aa318ad095
+  - enabled: 0
+    path: Assets/Scenes/Outdated Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Testbed Scenes/EnemyTestRoom.unity
+    guid: d5356ea43b858084686d61697e73b9d3
+  - enabled: 0
+    path: Assets/Scenes/Testbed Scenes/Matt's Generation Test Room.unity
+    guid: a926a7441bd4c3e4898a0e32723d3365
+  - enabled: 0
+    path: Assets/Scenes/Outdated Scenes/SampleScene2.unity
+    guid: dcd7a15b0f608bf40b463e7d992e88f6
+  - enabled: 0
+    path: Assets/Scenes/PlayableTestScenes/Test1.unity
+    guid: 1f916341b2f2b484686d3633d76061dd
+  - enabled: 0
+    path: Assets/Scenes/LevelPrototypes/Max Levels/Tutorial.unity
+    guid: a821c7752a84d3a44ba5b45544ba0240
+  - enabled: 0
+    path: Assets/Scenes/LevelPrototypes/OverallTower/OverallTower_Builder.unity
+    guid: 2355e3cfe8e41d3458672cd79c05ecf1
+  - enabled: 0
+    path: Assets/Scenes/LevelPrototypes/OverallTower/OverallTower.unity
+    guid: 5efe97458112f4b4c986e55ba5f3be28
+  - enabled: 0
+    path: Assets/Scenes/LevelPrototypes/Max Levels/TopFloor.unity
+    guid: 8b4acf4f531f1164289ca1de46fb1372
+  - enabled: 0
+    path: Assets/Scenes/PlayableTestScenes/Test2.unity
+    guid: 2ea4aa71adec3fa448088c57e8de71c3
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/LiftMenu.unity
+    guid: 5721fd634d8c01a4a98e141ed283d93b
+  - enabled: 1
+    path: Assets/Scenes/LevelPrototypes/OverallTower/TowerBuild.unity
+    guid: 9e3b0d2c8e60e954b9289255dab7bfa7
+  - enabled: 1
+    path: Assets/Scenes/LevelPrototypes/Max Levels/Tutorial2.unity
+    guid: fb0f8a9495bf9774684a5ca3bb57a2b6
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/YouWin.unity
+    guid: b42c0ad13f262844daca0939f98aa886
+  - enabled: 0
+    path: Assets/Scenes/LevelPrototypes/OverallTower/OverallTower_Gun.unity
+    guid: 94dd698be3b6c3a4da1991df3bf8b4a0
+  m_configObjects: {}

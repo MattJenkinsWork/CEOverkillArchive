@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: FloorData
+  m_EditorClassIdentifier: 
+  heightAdjustment: 5
+  possibleSpawnLocations:
+  - {fileID: 1315049802233864, guid: d1376df7c79181c40bffe83a083b034b, type: 2}
+  pointsOfInterest:
+  - {fileID: 1315049802233864, guid: d1376df7c79181c40bffe83a083b034b, type: 2}
+  pointOfInterestID: 01000000
+  enemyKind:
+  - {fileID: 1034839475705708, guid: ec48fbc285e2cf84790c8722c947a6df, type: 2}
+  - {fileID: 1954745934534912, guid: 73a381536c813774e977668fe7aa1afc, type: 2}
+  prefab: {fileID: 1572339842989632, guid: d1376df7c79181c40bffe83a083b034b, type: 2}
+  wallReferenceForHeight: {fileID: 1692838099826098, guid: d1376df7c79181c40bffe83a083b034b,
+    type: 2}
