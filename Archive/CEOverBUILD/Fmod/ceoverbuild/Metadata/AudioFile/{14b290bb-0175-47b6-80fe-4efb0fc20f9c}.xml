@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{14b290bb-0175-47b6-80fe-4efb0fc20f9c}">
+        <property name="assetPath">
+            <value>Glass_breaking1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.0099791666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f52ab4dd-4f1e-4153-b161-e92164406832}</destination>
+        </relationship>
+    </object>
+</objects>
