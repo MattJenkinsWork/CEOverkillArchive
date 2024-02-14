@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: TEMPBOSS
+  m_EditorClassIdentifier: 
+  heightAdjustment: 10
+  possibleSpawnLocations:
+  - {fileID: 1421018611776534, guid: 9b25c7e3f40a3fd4fa82d87935829f14, type: 2}
+  pointsOfInterest:
+  - {fileID: 1421018611776534, guid: 9b25c7e3f40a3fd4fa82d87935829f14, type: 2}
+  pointOfInterestID: 01000000
+  enemyKinds:
+  - {fileID: 1902803829356294, guid: d70d5f227857e9d42a308af7fa7bd9a9, type: 2}
+  prefab: {fileID: 1217131886576992, guid: 9b25c7e3f40a3fd4fa82d87935829f14, type: 2}
+  wallReferenceForHeight: {fileID: 1850157053161550, guid: 520c3055f2c6d5b4e95c69ae2b7f5042,
+    type: 2}

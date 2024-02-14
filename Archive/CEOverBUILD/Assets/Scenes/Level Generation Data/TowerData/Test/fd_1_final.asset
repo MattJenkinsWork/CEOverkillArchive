@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: fd_1_final
+  m_EditorClassIdentifier: 
+  heightAdjustment: 0
+  possibleSpawnLocations:
+  - {fileID: 1712659543648048, guid: 520c3055f2c6d5b4e95c69ae2b7f5042, type: 2}
+  pointsOfInterest:
+  - {fileID: 1712659543648048, guid: 520c3055f2c6d5b4e95c69ae2b7f5042, type: 2}
+  pointOfInterestID: 01000000
+  enemyKind:
+  - {fileID: 1034839475705708, guid: ec48fbc285e2cf84790c8722c947a6df, type: 2}
+  - {fileID: 1954745934534912, guid: 73a381536c813774e977668fe7aa1afc, type: 2}
+  prefab: {fileID: 1260098433617256, guid: 520c3055f2c6d5b4e95c69ae2b7f5042, type: 2}
+  wallReferenceForHeight: {fileID: 1850157053161550, guid: 520c3055f2c6d5b4e95c69ae2b7f5042,
+    type: 2}

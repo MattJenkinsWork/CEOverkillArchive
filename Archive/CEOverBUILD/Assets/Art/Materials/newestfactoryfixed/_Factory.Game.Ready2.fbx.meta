@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 9faaca32228cfcc4598d0685995ee645
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chest
+    100004: ElbowL
+    100006: ElbowR
+    100008: Head
+    100010: HeadEnd
+    100012: Neck
+    100014: polySurface213
+    100016: polySurface214
+    100018: polySurface214 1
+    100020: polySurface215
+    100022: polySurface216
+    100024: polySurface216 1
+    100026: polySurface217
+    100028: polySurface218
+    100030: polySurface219
+    100032: polySurface220
+    100034: polySurface221
+    100036: polySurface222
+    100038: polySurface223
+    100040: polySurface224
+    100042: polySurface225
+    100044: polySurface226
+    100046: polySurface227
+    100048: polySurface228
+    100050: polySurface229
+    100052: polySurface230
+    100054: polySurface231
+    100056: polySurface232
+    100058: polySurface233
+    100060: polySurface234
+    100062: polySurface235
+    100064: polySurface236
+    100066: polySurface237
+    100068: polySurface238
+    100070: polySurface239
+    100072: polySurface240
+    100074: Root
+    100076: ScapulaL
+    100078: ScapulaR
+    100080: ShoulderL
+    100082: ShoulderR
+    100084: Skirt
+    100086: SkirtBottom
+    100088: SkirtTop
+    100090: Spine
+    100092: SpineBall
+    100094: transform1
+    100096: transform10
+    100098: transform11
+    100100: transform12
+    100102: transform13
+    100104: transform14
+    100106: transform15
+    100108: transform16
+    100110: transform17
+    100112: transform18
+    100114: transform19
+    100116: transform2
+    100118: transform20
+    100120: transform21
+    100122: transform22
+    100124: transform23
+    100126: transform24
+    100128: transform25
+    100130: transform26
+    100132: transform27
+    100134: transform28
+    100136: transform29
+    100138: transform3
+    100140: transform4
+    100142: transform5
+    100144: transform6
+    100146: transform7
+    100148: transform8
+    100150: transform9
+    100152: WristL
+    100154: WristR
+    400000: //RootNode
+    400002: Chest
+    400004: ElbowL
+    400006: ElbowR
+    400008: Head
+    400010: HeadEnd
+    400012: Neck
+    400014: polySurface213
+    400016: polySurface214
+    400018: polySurface214 1
+    400020: polySurface215
+    400022: polySurface216
+    400024: polySurface216 1
+    400026: polySurface217
+    400028: polySurface218
+    400030: polySurface219
+    400032: polySurface220
+    400034: polySurface221
+    400036: polySurface222
+    400038: polySurface223
+    400040: polySurface224
+    400042: polySurface225
+    400044: polySurface226
+    400046: polySurface227
+    400048: polySurface228
+    400050: polySurface229
+    400052: polySurface230
+    400054: polySurface231
+    400056: polySurface232
+    400058: polySurface233
+    400060: polySurface234
+    400062: polySurface235
+    400064: polySurface236
+    400066: polySurface237
+    400068: polySurface238
+    400070: polySurface239
+    400072: polySurface240
+    400074: Root
+    400076: ScapulaL
+    400078: ScapulaR
+    400080: ShoulderL
+    400082: ShoulderR
+    400084: Skirt
+    400086: SkirtBottom
+    400088: SkirtTop
+    400090: Spine
+    400092: SpineBall
+    400094: transform1
+    400096: transform10
+    400098: transform11
+    400100: transform12
+    400102: transform13
+    400104: transform14
+    400106: transform15
+    400108: transform16
+    400110: transform17
+    400112: transform18
+    400114: transform19
+    400116: transform2
+    400118: transform20
+    400120: transform21
+    400122: transform22
+    400124: transform23
+    400126: transform24
+    400128: transform25
+    400130: transform26
+    400132: transform27
+    400134: transform28
+    400136: transform29
+    400138: transform3
+    400140: transform4
+    400142: transform5
+    400144: transform6
+    400146: transform7
+    400148: transform8
+    400150: transform9
+    400152: WristL
+    400154: WristR
+    2100000: lambert5
+    2100002: lambert4
+    2300000: polySurface240
+    3300000: polySurface240
+    4300000: polySurface240
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

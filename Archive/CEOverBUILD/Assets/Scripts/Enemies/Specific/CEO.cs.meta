@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 43ece2aedf4ea9f4c9b29a5283a7a1d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyedVersion: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - nav: {instanceID: 0}
+  - dodgeBox: {instanceID: 0}
+  - player: {instanceID: 0}
+  - pManager: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - projRigid: {instanceID: 0}
+  - explosionEffect: {instanceID: 0}
+  - factory: {instanceID: 0}
+  - thing: {fileID: 1771839586884554, guid: 86254efd22498294aa52ebc9719e3ddd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

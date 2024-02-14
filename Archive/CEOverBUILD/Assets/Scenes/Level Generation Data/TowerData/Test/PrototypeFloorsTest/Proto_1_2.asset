@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: Proto_1_2
+  m_EditorClassIdentifier: 
+  heightAdjustment: 0
+  possibleSpawnLocations:
+  - {fileID: 1400053615590686, guid: 96bb9e70794894a4196c3c157a11757f, type: 2}
+  pointsOfInterest:
+  - {fileID: 1400053615590686, guid: 96bb9e70794894a4196c3c157a11757f, type: 2}
+  pointOfInterestID: 01000000
+  enemyKinds:
+  - {fileID: 1902803829356294, guid: 8537950bc4b2203468797dd966972ba7, type: 2}
+  - {fileID: 1379071756982596, guid: 9f952ab763caab043b53c61e7c954fb6, type: 2}
+  prefab: {fileID: 1253343248860144, guid: 244188ef2c29a3e47b8c8c2d9c07d4ba, type: 2}
+  wallReferenceForHeight: {fileID: 1944744092622020, guid: 244188ef2c29a3e47b8c8c2d9c07d4ba,
+    type: 2}

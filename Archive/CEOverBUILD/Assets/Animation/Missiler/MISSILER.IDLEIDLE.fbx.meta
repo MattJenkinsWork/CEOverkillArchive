@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 4e1b7b9c9e823df4f971bc62b31dc402
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MissilerRigging:Chest
+    100004: MissilerRigging:Foot
+    100006: MissilerRigging:Head
+    100008: MissilerRigging:Head1
+    100010: MissilerRigging:Hip
+    100012: MissilerRigging:LArm
+    100014: MissilerRigging:LClav
+    100016: MissilerRigging:LTip
+    100018: MissilerRigging:Missiler
+    100020: MissilerRigging:Neck
+    100022: MissilerRigging:RArm
+    100024: MissilerRigging:RClav
+    100026: MissilerRigging:Ring
+    100028: MissilerRigging:Ring1
+    100030: MissilerRigging:Root
+    100032: MissilerRigging:RTip
+    100034: MissilerRigging:Skirt
+    400000: //RootNode
+    400002: MissilerRigging:Chest
+    400004: MissilerRigging:Foot
+    400006: MissilerRigging:Head
+    400008: MissilerRigging:Head1
+    400010: MissilerRigging:Hip
+    400012: MissilerRigging:LArm
+    400014: MissilerRigging:LClav
+    400016: MissilerRigging:LTip
+    400018: MissilerRigging:Missiler
+    400020: MissilerRigging:Neck
+    400022: MissilerRigging:RArm
+    400024: MissilerRigging:RClav
+    400026: MissilerRigging:Ring
+    400028: MissilerRigging:Ring1
+    400030: MissilerRigging:Root
+    400032: MissilerRigging:RTip
+    400034: MissilerRigging:Skirt
+    2100000: blinn1
+    4300000: MissilerRigging:Missiler
+    7400000: IDLE
+    9500000: //RootNode
+    13700000: MissilerRigging:Missiler
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9356ac124c1cbb042868a571d846f218,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

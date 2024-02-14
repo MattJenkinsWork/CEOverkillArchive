@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 6d8f200e7e51f0c4a9289a2ff81df57a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera_Iron
+    100002: Camera_Main
+    100004: FP_Rolled
+    100006: //RootNode
+    100008: Hands_
+    100010: Hands_Hub01
+    100012: Hands_LArm1
+    100014: Hands_LArm2
+    100016: Hands_LArmCollarbone
+    100018: Hands_LArmFinger11
+    100020: Hands_LArmFinger12
+    100022: Hands_LArmFinger13
+    100024: Hands_LArmFinger21
+    100026: Hands_LArmFinger22
+    100028: Hands_LArmFinger23
+    100030: Hands_LArmFinger31
+    100032: Hands_LArmFinger32
+    100034: Hands_LArmFinger33
+    100036: Hands_LArmFinger34
+    100038: Hands_LArmFinger41
+    100040: Hands_LArmFinger42
+    100042: Hands_LArmFinger43
+    100044: Hands_LArmFinger44
+    100046: Hands_LArmPalm
+    100048: Hands_LArmThumb1
+    100050: Hands_LArmThumb2
+    100052: Hands_LArmThumb3
+    100054: Hands_LPalm_morph
+    100056: Hands_LSleeve
+    100058: Hands_Lwrist
+    100060: hands_mesHNEW
+    100062: hands_mesHNEW001
+    100064: hands_mesHNEW002
+    100066: hands_mesHNEW003
+    100068: hands_mesHNEW004
+    100070: Hands_R_Sleeve
+    100072: Hands_R_wrist
+    100074: Hands_RArm1
+    100076: Hands_RArm2
+    100078: Hands_RArmCollarbone
+    100080: Hands_RArmFinger11
+    100082: Hands_RArmFinger12
+    100084: Hands_RArmFinger13
+    100086: Hands_RArmFinger21
+    100088: Hands_RArmFinger22
+    100090: Hands_RArmFinger23
+    100092: Hands_RArmFinger31
+    100094: Hands_RArmFinger32
+    100096: Hands_RArmFinger33
+    100098: Hands_RArmFinger34
+    100100: Hands_RArmFinger41
+    100102: Hands_RArmFinger42
+    100104: Hands_RArmFinger43
+    100106: Hands_RArmFinger44
+    100108: Hands_RArmIKTarget
+    100110: Hands_RArmPalm
+    100112: Hands_RArmThumb1
+    100114: Hands_RArmThumb2
+    100116: Hands_RArmThumb3
+    100118: Hands_RPalm_morph
+    100120: Low_NVA
+    100122: Low_US
+    100124: Low_VC
+    100126: pCylinder1
+    100128: ROOTBONE
+    100130: VN_New_Arms001
+    100132: VN_New_Arms_Rigging
+    400000: Camera_Iron
+    400002: Camera_Main
+    400004: FP_Rolled
+    400006: //RootNode
+    400008: Hands_
+    400010: Hands_Hub01
+    400012: Hands_LArm1
+    400014: Hands_LArm2
+    400016: Hands_LArmCollarbone
+    400018: Hands_LArmFinger11
+    400020: Hands_LArmFinger12
+    400022: Hands_LArmFinger13
+    400024: Hands_LArmFinger21
+    400026: Hands_LArmFinger22
+    400028: Hands_LArmFinger23
+    400030: Hands_LArmFinger31
+    400032: Hands_LArmFinger32
+    400034: Hands_LArmFinger33
+    400036: Hands_LArmFinger34
+    400038: Hands_LArmFinger41
+    400040: Hands_LArmFinger42
+    400042: Hands_LArmFinger43
+    400044: Hands_LArmFinger44
+    400046: Hands_LArmPalm
+    400048: Hands_LArmThumb1
+    400050: Hands_LArmThumb2
+    400052: Hands_LArmThumb3
+    400054: Hands_LPalm_morph
+    400056: Hands_LSleeve
+    400058: Hands_Lwrist
+    400060: hands_mesHNEW
+    400062: hands_mesHNEW001
+    400064: hands_mesHNEW002
+    400066: hands_mesHNEW003
+    400068: hands_mesHNEW004
+    400070: Hands_R_Sleeve
+    400072: Hands_R_wrist
+    400074: Hands_RArm1
+    400076: Hands_RArm2
+    400078: Hands_RArmCollarbone
+    400080: Hands_RArmFinger11
+    400082: Hands_RArmFinger12
+    400084: Hands_RArmFinger13
+    400086: Hands_RArmFinger21
+    400088: Hands_RArmFinger22
+    400090: Hands_RArmFinger23
+    400092: Hands_RArmFinger31
+    400094: Hands_RArmFinger32
+    400096: Hands_RArmFinger33
+    400098: Hands_RArmFinger34
+    400100: Hands_RArmFinger41
+    400102: Hands_RArmFinger42
+    400104: Hands_RArmFinger43
+    400106: Hands_RArmFinger44
+    400108: Hands_RArmIKTarget
+    400110: Hands_RArmPalm
+    400112: Hands_RArmThumb1
+    400114: Hands_RArmThumb2
+    400116: Hands_RArmThumb3
+    400118: Hands_RPalm_morph
+    400120: Low_NVA
+    400122: Low_US
+    400124: Low_VC
+    400126: pCylinder1
+    400128: ROOTBONE
+    400130: VN_New_Arms001
+    400132: VN_New_Arms_Rigging
+    2000000: Camera_Iron
+    2000002: Camera_Main
+    2100000: default1
+    2100002: 'Material #95'
+    2100004: 04 - Default
+    2100006: lambert1
+    2300000: pCylinder1
+    2300002: VN_New_Arms001
+    3300000: pCylinder1
+    3300002: VN_New_Arms001
+    4300000: VN_New_Arms_Rigging
+    4300002: hands_mesHNEW
+    4300004: VN_New_Arms001
+    4300006: FP_Rolled
+    4300008: hands_mesHNEW001
+    4300010: Low_NVA
+    4300012: Low_US
+    4300014: Low_VC
+    4300016: hands_mesHNEW002
+    4300018: hands_mesHNEW003
+    4300020: hands_mesHNEW004
+    4300022: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: FP_Rolled
+    13700002: hands_mesHNEW
+    13700004: hands_mesHNEW001
+    13700006: hands_mesHNEW002
+    13700008: hands_mesHNEW003
+    13700010: hands_mesHNEW004
+    13700012: Low_NVA
+    13700014: Low_US
+    13700016: Low_VC
+    13700018: VN_New_Arms_Rigging
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5a450f9150cf5d844b7902de14905da3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  - pManager: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - projRigid: {instanceID: 0}
+  - explosionEffect: {fileID: 100010, guid: 031d08f52af1daa4f929b85221519426, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

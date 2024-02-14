@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9be5953f6360e4b9be027ecec04e08, type: 3}
+  m_Name: Level4Data1
+  m_EditorClassIdentifier: 
+  heightAdjustment: 0
+  possibleSpawnLocations:
+  - {fileID: 1270451762733980, guid: 5c2f1e70f0d922a48ad6ce2107b525da, type: 2}
+  pointsOfInterest:
+  - {fileID: 1270451762733980, guid: 5c2f1e70f0d922a48ad6ce2107b525da, type: 2}
+  pointOfInterestID: 01000000
+  enemyKinds:
+  - {fileID: 1251164496859540, guid: 6aea3abe5b10dd6428deb9a8df3439af, type: 2}
+  - {fileID: 1379071756982596, guid: 6b39fefbf5d684a43b2279519c1d9198, type: 2}
+  - {fileID: 1902803829356294, guid: d70d5f227857e9d42a308af7fa7bd9a9, type: 2}
+  prefab: {fileID: 1804935201257124, guid: 5c2f1e70f0d922a48ad6ce2107b525da, type: 2}
+  wallReferenceForHeight: {fileID: 1522476883148476, guid: 5c2f1e70f0d922a48ad6ce2107b525da,
+    type: 2}
